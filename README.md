@@ -85,10 +85,6 @@ Tools & Environment
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KakaArham&theme=tokyonight&hide_border=true&background=12%2C12%2C18" alt="GitHub Streak" width="98%" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=48,36,24,12,0&height=60&section=footer" width="100%" />
-</div>
-
 </div>
 
 🐍 Contribution Activity

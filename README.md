@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=200&section=header&text=KAKA%20ARHAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Informatics%20Student&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
 Hi, I'm Kaka Arham Abd. Zulfikar 👋
-Frontend Developer • Informatics Student
+Full stack • Informatics Student
 
 Turning ideas into interactive and meaningful digital experiences.
 
 <p>
 <a href="https://kakaarhamz.my.id"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:kakaarham110@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/kakaarhz"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="kakaarham110@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/kakaarhzz"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=KakaArham&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />

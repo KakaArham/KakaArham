@@ -75,6 +75,12 @@ Tools & Environment
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KakaArham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaArham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+
+<br/>
+
 </div>
 
 🐍 Contribution Activity

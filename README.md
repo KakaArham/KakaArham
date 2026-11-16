@@ -75,11 +75,19 @@ Tools & Environment
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KakaArham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KakaArham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12,12,18" alt="KakaArham Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaArham&layout=compact&theme=tokyonight&hide_border=true&bg_color=12,12,18" alt="Top Languages" width="48%" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaArham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KakaArham&theme=tokyonight&hide_border=true&background=12%2C12%2C18" alt="GitHub Streak" width="98%" />
+</div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=48,36,24,12,0&height=60&section=footer" width="100%" />
+</div>
 
 </div>
 

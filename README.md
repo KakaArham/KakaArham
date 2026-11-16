@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=200&section=header&text=KAKA%20ARHAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Informatics%20Student&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=200&section=header&text=KAKA%20ARHAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Informatics%20Student&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
 
 Hi, I'm Kaka Arham Abd. Zulfikar 👋
 Fullstack Developer • Informatics Student

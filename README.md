@@ -23,7 +23,7 @@ const arham = {
     name: "Kaka Arham Abd. Zulfikar",
     location: "Indonesia 🇮🇩",
     education: "Informatics Student at UNIBI",
-    role: "Frontend Web Developer",
+    role: "Fullstack Developer",
 
     currentlyWorkingOn: [
         "Laravel Applications",

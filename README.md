@@ -1,50 +1,104 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=120&section=header&text=Frontend%20Developer&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h1>Hi there, I'm Kaka Arham Abd. Zulfikar 👋</h1>
-  <p><em>Passionate Frontend Web Developer & Informatics Student based in Indonesia 🇮🇩</em></p>
-  
-  <p>
-    <a href="https://instagram.com/kakaarhz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:kakaarham110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://kakaarhamz.my.id" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=200&section=header&text=KAKA%20ARHAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Informatics%20Student&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+
+Hi, I'm Kaka Arham Abd. Zulfikar 👋
+Frontend Developer • Informatics Student
+
+Turning ideas into interactive and meaningful digital experiences.
+
+<p>
+<a href="https://kakaarhamz.my.id"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:kakaarham110@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/kakaarhz"><img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=KakaArham&label=Profile%20Views&color=6366f1&style=flat" alt="Profile views" />
+
 </div>
 
----
+👨‍💻 About Me
+javascript
+const arham = {
+    name: "Kaka Arham Abd. Zulfikar",
+    location: "Indonesia 🇮🇩",
+    education: "Informatics Student at UNIBI",
+    role: "Frontend Web Developer",
 
-### 💻 About Me
+    currentlyWorkingOn: [
+        "Laravel Applications",
+        "React Projects"
+    ],
 
-- 🚀 Currently building robust **Web Development projects** with Laravel & React.
-- 🌱 Deepening my knowledge in **Golang & Next.js**.
-- 🎓 Pursuing an Informatics degree at **UNIBI**.
-- ⚡ Fun fact: I balance clean code with high-tier gaming (Immortal MLBB jungler & tactical sim enthusiast).
+    currentlyLearning: [
+        "Golang",
+        "Next.js"
+    ],
 
----
+    interests: [
+        "Web Development",
+        "UI/UX Design",
+        "Technology",
+        "Gaming"
+    ],
 
-### 🛠️ Tech Stack & Tools
+    funFact: "Immortal MLBB Jungler 🎮"
+};
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="36" height="36" hspace="4"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36" hspace="4"/>
-</div>
+🚀 Building modern and functional web applications with Laravel & React.
+🌱 Currently exploring Golang, Next.js, and modern web technologies.
+🎓 Studying Informatics at Universitas Informatika dan Bisnis Indonesia (UNIBI).
+🎮 Outside coding, I'm an Immortal MLBB jungler and tactical simulation enthusiast.
+⚡ Tech Stack & Tools
 
----
+Frontend Development
 
-### 📊 GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+</p>
+
+Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,go&theme=dark" />
+</p>
+
+Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark" />
+</p>
+
+📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KakaArham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12,12,18" alt="KakaArham Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaArham&layout=compact&theme=tokyonight&hide_border=true&bg_color=12,12,18" alt="Top Languages" width="48%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KakaArham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakaArham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
+
+<br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=KakaArham&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F59E0B&currStreakLabel=818CF8" />
+
 </div>
 
-<div
+🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KakaArham/KakaArham/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+<div align="center">
+
+💜 Thanks for Visiting!
+
+Building, learning, and improving — one commit at a time.
+
+Let's connect and build something awesome!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=100&section=footer" width="100%" />
+
+</div>

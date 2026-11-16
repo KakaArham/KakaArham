@@ -46,10 +46,12 @@ const arham = {
     };
 
 🚀 Building modern and functional web applications with Laravel & React.
+
 🌱 Currently exploring Golang, Next.js, and modern web technologies.
+
 🎓 Studying Informatics at Universitas Informatika dan Bisnis Indonesia (UNIBI).
+
 🎮 Outside coding, I'm an Immortal MLBB jungler and tactical simulation enthusiast.
-⚡ Tech Stack & Tools
 
 Frontend Development
 

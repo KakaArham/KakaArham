@@ -73,9 +73,7 @@ Tools & Environment
 
 📊 GitHub Analytics
 
-
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=KakaArham&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F59E0B&currStreakLabel=818CF8" />
+<div align="center">
 
 </div>
 

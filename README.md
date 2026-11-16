@@ -87,21 +87,6 @@ Tools & Environment
 
 </div>
 
-
-🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KakaArham/KakaArham/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
-<div align="center">
-
-💜 Thanks for Visiting!
-
-Building, learning, and improving — one commit at a time.
-
 Let's connect and build something awesome!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=100&section=footer" width="100%" />

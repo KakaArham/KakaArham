@@ -43,7 +43,7 @@ const arham = {
     ],
 
     funFact: "Immortal MLBB Jungler 🎮"
-};
+    };
 
 🚀 Building modern and functional web applications with Laravel & React.
 🌱 Currently exploring Golang, Next.js, and modern web technologies.
